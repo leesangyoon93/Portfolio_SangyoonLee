@@ -1,0 +1,80 @@
+{
+  "c_" : "IUProject",
+  "viewPorts" : [
+    960
+  ],
+  "_pageGroup" : {
+    "c_" : "IUSheetGroup",
+    "name" : "pages",
+    "_children" : [
+      {
+        "m_" : "DBC9BCD4-93C4-449E-A50C-463A2094B7E3",
+        "c_" : "IUPage",
+        "file_" : "index-DBC9BCD4-93C4-449E-A50C-463A2094B7E3.json"
+      }
+    ]
+  },
+  "_classGroup" : {
+    "c_" : "IUSheetGroup",
+    "name" : "compositions",
+    "_children" : [
+      {
+        "m_" : "86022C55-D5C3-494D-9109-C79B521F3332",
+        "c_" : "IUClass",
+        "file_" : "header-86022C55-D5C3-494D-9109-C79B521F3332.json"
+      },
+      {
+        "m_" : "08ED6641-1ED4-4BD7-9C66-77CA3E944E20",
+        "c_" : "IUClass",
+        "file_" : "footer-08ED6641-1ED4-4BD7-9C66-77CA3E944E20.json"
+      },
+      {
+        "m_" : "036650CE-58BB-42C2-801C-87501D21E3A4",
+        "c_" : "IUClass",
+        "file_" : "sidebar-036650CE-58BB-42C2-801C-87501D21E3A4.json"
+      },
+      {
+        "m_" : "D42DDCDD-179B-48AA-9C90-F3BD6BFDEAC4",
+        "c_" : "IUClass",
+        "file_" : "composition-D42DDCDD-179B-48AA-9C90-F3BD6BFDEAC4.json"
+      }
+    ]
+  },
+  "_projectData" : {
+    "c_" : "IUProjectReactData",
+    "buildPath" : "$CurrentFolder\/$AppName_react",
+    "resourcePrefix" : "\/resource",
+    "resourceBuildPath" : "$CurrentFolder\/$AppName_react\/resource",
+    "isCreateReactJSFile" : true
+  },
+  "_htmlData" : {
+    "c_" : "IUProjectHTMLData",
+    "buildPath" : "\/Users\/sangyoon\/Documents\/Portfolio\/public",
+    "resourcePrefix" : "\/resource\/",
+    "resourceBuildPath" : "\/Users\/sangyoon\/Documents\/Portfolio\/public\/resource",
+    "_port" : 23658,
+    "_linkPrefix" : "\/resource\/"
+  },
+  "_title" : "SangyoonLee",
+  "_customTopHeadCode" : "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"viewport\" content=\"width=960\" \/>\n<script src=\"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/3.1.1\/jquery.min.js\"><\/script>\n",
+  "_favoriteColors" : [
+    {
+      "c_" : "NSColor",
+      "R" : 0.3333333432674408,
+      "G" : 0.6745098233222961,
+      "B" : 0.9333333373069763,
+      "A" : 1
+    },
+    {
+      "c_" : "NSColor",
+      "R" : 0.2313725501298904,
+      "G" : 0.3490196168422699,
+      "B" : 0.5960784554481506,
+      "A" : 1
+    }
+  ],
+  "_documentPath" : "$CurrentFolder\/$AppName_document",
+  "_enableMinWidth" : true,
+  "defaultLayout" : 1,
+  "idPrefix" : ""
+}
